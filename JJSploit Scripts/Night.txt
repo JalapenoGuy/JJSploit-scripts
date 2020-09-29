@@ -1,0 +1,1 @@
+game.Lighting:SetMinutesAfterMidnight(1 * 60)

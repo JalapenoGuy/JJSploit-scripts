@@ -1,0 +1,16 @@
+print("Getting Btools") --This is a normal script >_>
+wait(2)
+print("Drag Success")
+a = Instance.new("HopperBin") 
+a.BinType = 1 
+a.Parent = game.Players.LocalPlayer.Backpack --Replace killerboy634 With your name!
+wait(3)
+print("Delete Success")
+a = Instance.new("HopperBin") 
+a.BinType = 4
+a.Parent = game.Players.LocalPlayer.Backpack --Replace killerboy634 With your name!
+wait(3)
+print("Copy Success")
+a = Instance.new("HopperBin") 
+a.BinType = 3 
+a.Parent = game.Players.LocalPlayer.Backpack --Replace killerboy634 With your name!
