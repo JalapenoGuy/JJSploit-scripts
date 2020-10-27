@@ -1,0 +1,2 @@
+fire = Instance.new("ForceField")
+fire.Parent = game.Players.LocalPlayer.Character
