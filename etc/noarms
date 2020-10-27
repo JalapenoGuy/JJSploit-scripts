@@ -1,0 +1,2 @@
+game.Players.LocalPlayer.Character["Left Arm"]:Destroy()
+game.Players.LocalPlayer.Character["Right Arm"]:Destroy()
