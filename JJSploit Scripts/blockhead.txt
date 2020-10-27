@@ -1,0 +1,3 @@
+local plrName = game.Players.LocalPlayer.Name
+local character = workspace:WaitForChild(plrName)
+character.Head.Mesh:Destroy()
