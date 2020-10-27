@@ -1,0 +1,7 @@
+local t = 1
+game.Players.LocalPlayer.Character["Right Leg"].Transparency = t
+game.Players.LocalPlayer.Character["Left Leg"].Transparency = t
+game.Players.LocalPlayer.Character["Left Arm"].Transparency = t
+game.Players.LocalPlayer.Character["Right Arm"].Transparency = t
+game.Players.LocalPlayer.Character.Head.Transparency = t
+game.Players.LocalPlayer.Character.Torso.Transparency = t
