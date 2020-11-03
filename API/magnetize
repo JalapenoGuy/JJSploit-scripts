@@ -6,7 +6,7 @@ game:GetService('RunService').Stepped:connect(function()
 end)
 b = Instance.new("RocketPropulsion")
 b.Parent = game.Players.LocalPlayer.Character.HumanoidRootPart
-b.Target = game.Players[magplayerlol].Character.HumanoidRootPart
+b.Target = game.Players[_G.MagnetizeToTarget].Character.HumanoidRootPart
 b.TurnP = 20000
 b.MaxThrust = 20000
 b.MaxSpeed = 1000
