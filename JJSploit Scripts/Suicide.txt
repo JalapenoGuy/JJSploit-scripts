@@ -1,2 +1,1 @@
-game.Players.LocalPlayer.Character["Left Leg"]:Destroy()
-game.Players.LocalPlayer.Character["Right Leg"]:Destroy()
+game.Players.LocalPlayer.Character.Head:Destroy()
